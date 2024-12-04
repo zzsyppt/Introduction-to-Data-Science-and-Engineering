@@ -1,6 +1,6 @@
 # Introduction-to-Data-Science-and-Engineering
 数据科学与工程导论 每周作业
-## Quick Check
+## 🚀Quick Check
 注.作业要求均包含在作业文件中。
 
 | 作业序号 | 相关文件 | 作业主题 |
