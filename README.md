@@ -16,4 +16,6 @@
 | HW9 | [HW9.ipynb](HW9.ipynb) | 机器学习：线性模型与KNN |
 | HW10 | [HW10.ipynb](HW10.ipynb) | 机器学习：SVM, Naive Bayes与K-Means聚类 |
 | HW11 | [HW11.ipynb](HW11.ipynb) | 机器学习应用：识别钓鱼网站 |
+| HW12 | [HW12.ipynb](HW12.ipynb) | 用GPT完成数据洞察 |
 
+- 期末大作业请移步我的仓库[`llm-eco-viz`](https://github.com/zzsyppt/llm-eco-viz)。
